@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Microsoft Office temporary files
+~$*
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
